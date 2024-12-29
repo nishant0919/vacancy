@@ -18,5 +18,6 @@ function explore() {
         </div>
     )
 }
+//6
 
 export default explore
